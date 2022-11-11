@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+.container button {
+    min-width: 30px;
+    min-height: 30px;
+}

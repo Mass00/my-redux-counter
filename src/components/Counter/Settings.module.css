@@ -1,0 +1,12 @@
+.minMaxContainer {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.minMaxContainer span{
+    display: inline-block;
+    width: 50px;
+}
+.minMaxContainer input{
+    width: 50%;
+}
